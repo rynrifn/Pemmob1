@@ -1,4 +1,5 @@
-
+Berikut tampilan dari aplikasi yang telah diimplementasikan:
+![Tampilan Aplikasi](image.png)
 
 Aplikasi ini dibuat menggunakan Android Studio dengan bahasa pemrograman Kotlin dan Jetpack Compose. Beberapa input control yang diimplementasikan antara lain:
 
